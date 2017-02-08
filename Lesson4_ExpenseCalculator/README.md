@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kaelen Birkholz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses basic JavaScript to complete an expense calculator application.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
