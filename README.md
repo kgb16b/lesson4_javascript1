@@ -17,6 +17,6 @@ This assignment uses basic JavaScript to complete an expense calculator applicat
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Client-side programming is written in a sepaprate program, for example JavaScript
+2. Variables store data in a special container and are case sensitive
+3. There are 2 data types: strongly and loosely typed. Strongly needs to have the data types of variables declared, but loosely does not.
